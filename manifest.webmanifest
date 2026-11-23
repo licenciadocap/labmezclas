@@ -1,0 +1,23 @@
+{
+  "name": "LabMezclas - Laboratorio escolar",
+  "short_name": "LabMezclas",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f8fb",
+  "theme_color": "#123b5d",
+  "description": "Aprende mezclas y métodos de separación con retos interactivos.",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
